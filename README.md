@@ -16,7 +16,7 @@ We work with businesses of all sizes, from startups to established enterprises. 
 ## 📫 Contact Us:
 - Office e-mail: biuro@profitway.pl
 - IT e-mail: it@profitway.pl
-- Website: profitway.pl
+- Website: [profitway.pl](profitway.pl)
 
 ## ⚡ Fun fact:
 From a team of 4 to a thriving company of 40+ professionals, we’ve been growing alongside our clients, delivering digital solutions that make a real impact. 🚀
